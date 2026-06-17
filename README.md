@@ -1,6 +1,6 @@
 # Hei, jeg er Berina 👋
 
-BSc student in Software Engineering @ Macromedia University, Munich. 
+BSc student in Software Engineering @ Macromedia University, Munich. <br>
 Multilingual (DE/EN/SQ/MK).
 
 ## Featured Project
@@ -11,15 +11,15 @@ Responsive landing page built and deployed for a Norwegian painting company, a r
 
 ## Other Projects
 
-- **[InventoryManager](https://github.com/berinaademi/InventoryManager)** — Inventory management app
-- **[Task-Management-App](https://github.com/berinaademi/Task-Management-App)** — Task management application
-- **[To-Do-App](https://github.com/berinaademi/To-Do-App)** — Python-based to-do app
-- **[toDo-easy](https://github.com/berinaademi/toDo-easy)** — Lightweight Python to-do app
-- **[TechForward2024](https://github.com/berinaademi/TechForward2024)** — Web project (HTML)
+- **[InventoryManager](https://github.com/berinaademi/InventoryManager)** — Track and manage inventory
+- **[Task-Management-App](https://github.com/berinaademi/Task-Management-App)** — Organize and manage tasks
+- **[To-Do-App](https://github.com/berinaademi/To-Do-App)** — Simple Python to-do list
+- **[toDo-easy](https://github.com/berinaademi/toDo-easy)** — Lightweight to-do app
+- **[TechForward2024](https://github.com/berinaademi/TechForward2024)** — Website for a tech conference event
 
 ## 📫 Get in touch
 
-Open to internship opportunities full-time roles, Werkstudent positions, and freelance client projects.
+Open to internship opportunities, full-time roles, Werkstudent positions, and freelance client projects.
 Contact me:
 berina.ademi08@gmail.com
 <!--
