@@ -6,7 +6,7 @@ Multilingual (DE/EN/SQ/MK).
 ## Featured Project
 
 ### Premium Malerservice
-Responsive landing page built and deployed for a Norwegian painting company, a real client project covering everything from frontend development to hosting and domain setup.
+Responsive landing page built and deployed for a Norwegian painting company, a real client project covering everything from design and frontend development to hosting and domain setup.
 🔗 Live site: https://premium-ms.no/
 
 ## Other Projects
