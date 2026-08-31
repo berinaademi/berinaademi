@@ -38,7 +38,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[TRACKit](https://github.com/berinaademi/InventoryManager)**
+**[TRACKit](https://inventorymanager-u6v6.onrender.com/)**
 
 Full-stack inventory management app. Flask + SQLite backend, JS frontend, complete CRUD, secure Werkzeug auth, auto-generated shopping lists and expiry notifications. My strongest example of taking a system from schema to deployment.
 
@@ -47,7 +47,7 @@ Full-stack inventory management app. Flask + SQLite backend, JS frontend, comple
 </td>
 <td width="50%" valign="top">
 
-**[Currency Exchange Microservice](https://berinaademi.github.io/currency-exchange/))**
+**[Currency Exchange Microservice](https://berinaademi.github.io/currency-exchange/)**
 *Serverless on AWS Lambda*
 
 REST microservice that converts currencies using live exchange rates, with an in-memory cache. Containerized with Docker, deployed to AWS Lambda via ECR, with a full CI/CD pipeline (GitHub Actions) that tests, builds, and pushes on every push to main.
