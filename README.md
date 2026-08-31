@@ -38,7 +38,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[TRACKit](https://github.com/berinaademi/InventoryManager)**
+**[TRACKit](https://inventorymanager-u6v6.onrender.com/)**
 *Live on Render*
 
 Full-stack inventory management app. Flask + SQLite backend, JS frontend, complete CRUD, secure Werkzeug auth, auto-generated shopping lists and expiry notifications. My strongest example of taking a system from schema to deployment.
